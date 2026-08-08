@@ -23,7 +23,7 @@ ICU admission characteristics
 Multiple mortality outcomes
 LDA-style topic probability features mimicking patients clinical texts
 
-The main objective is to investigate how different machine-learning algorithms perform when predicting ICU mortality from these features.
+The main objective of the project is to investigate how different machine-learning algorithms perform when predicting ICU mortality from these features.
 
 Dataset
 
@@ -79,7 +79,6 @@ topicB_sepsis
 topicB_medical_assessment
 topicB_spinal_hematoma
 
-
 These variables are generated using a Dirichlet distribution so that each patient's topic probabilities form a topic distribution.
 
 The topic features are synthetic representations and are not extracted from actual clinical notes.
@@ -94,12 +93,10 @@ mortality_72h
 mortality_30day
 mortality_1year
 
-
 Each target is encoded as:
 
 0 = Survival
 1 = Mortality
-
 
 The primary goal of the project is to develop machine-learning models capable of predicting these mortality outcomes using information available from the synthetic 24-hour ICU dataset.
 
@@ -208,7 +205,6 @@ PR-AUC
 Recall / Sensitivity
 F1-score
 
-
 PR-AUC is especially useful for assessing performance on an imbalanced mortality prediction task.
 
 Feature Experiments
@@ -249,9 +245,10 @@ topicB_sepsis
 topicB_medical_assessment
 topicB_spinal_hematoma
 
-Experiment 3 — Combined Features(Clinical Features + Topic Features)
+Experiment 3 — Combined Features (Clinical Features + Topic Features)
 
 Use:
+
 x1_gcs
 x2_heart_rate
 x3_sbp
@@ -274,7 +271,6 @@ topicB_endotracheal_intubation
 topicB_sepsis
 topicB_medical_assessment
 topicB_spinal_hematoma
-
 
 
 This comparison allows the project to investigate whether topic-model information improves mortality prediction over structured clinical variables alone.
