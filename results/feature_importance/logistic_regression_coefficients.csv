@@ -1,0 +1,23 @@
+,LR |coef|
+topicB_newborn_resp_distress,2.7411
+topicB_hydroperitoneum,1.8765
+topicB_spinal_hematoma,0.9791
+x11_gender,0.9348
+topicB_sepsis,0.6049
+topicB_endotracheal_intubation,0.4324
+x1_gcs,0.4275
+topicB_coronary_artery_disease,0.2974
+x10_admission_type,0.2871
+topicB_urinary_retention,0.257
+topicB_nursing_assessment,0.2163
+topicB_pneumothorax_effusion,0.1971
+topicB_medical_assessment,0.1727
+x9_bicarbonate,0.0829
+x4_temp_c,0.0371
+x12_age,0.0361
+x5_bun,0.0307
+x6_wbc,0.0115
+x7_potassium,0.0079
+x8_sodium,0.0075
+x3_sbp,0.0017
+x2_heart_rate,0.0004

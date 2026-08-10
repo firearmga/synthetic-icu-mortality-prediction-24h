@@ -1,0 +1,23 @@
+,CART,Random Forest,Gradient Boosting
+x1_gcs,0.4501,0.2086,0.3218
+x12_age,0.1208,0.0911,0.1014
+x11_gender,0.1116,0.0593,0.0643
+topicB_newborn_resp_distress,0.0729,0.069,0.0688
+topicB_sepsis,0.0469,0.0487,0.0438
+x9_bicarbonate,0.0436,0.0537,0.053
+topicB_spinal_hematoma,0.0416,0.0431,0.0411
+x5_bun,0.0374,0.0567,0.0579
+topicB_nursing_assessment,0.0281,0.046,0.0385
+topicB_hydroperitoneum,0.0157,0.0439,0.0417
+x10_admission_type,0.0081,0.0244,0.0538
+x6_wbc,0.0046,0.0203,0.0036
+topicB_coronary_artery_disease,0.0045,0.0333,0.0261
+x2_heart_rate,0.0041,0.0211,0.0013
+topicB_urinary_retention,0.0031,0.0257,0.014
+x7_potassium,0.0027,0.0189,0.0092
+x3_sbp,0.0026,0.0225,0.0017
+topicB_pneumothorax_effusion,0.0015,0.0302,0.0228
+x4_temp_c,0.0,0.018,0.0045
+x8_sodium,0.0,0.0183,0.003
+topicB_endotracheal_intubation,0.0,0.0245,0.0144
+topicB_medical_assessment,0.0,0.0227,0.0134

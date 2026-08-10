@@ -1,0 +1,23 @@
+,Gradient Boosting (permutation),MARS (permutation)
+x1_gcs,0.0842,0.0847
+x12_age,0.0411,0.0471
+x5_bun,0.0306,0.0324
+topicB_newborn_resp_distress,0.0229,0.0023
+x9_bicarbonate,0.0166,0.0189
+topicB_hydroperitoneum,0.0047,0.0044
+topicB_nursing_assessment,0.0034,0.0116
+topicB_coronary_artery_disease,0.0031,0.0157
+topicB_endotracheal_intubation,0.0015,0.0318
+x4_temp_c,0.0006,0.0027
+topicB_urinary_retention,0.0005,0.0356
+x6_wbc,0.0003,0.0008
+topicB_sepsis,0.0002,0.0123
+topicB_pneumothorax_effusion,0.0001,0.027
+x8_sodium,-0.0001,-0.001
+x3_sbp,-0.0001,-0.0001
+topicB_medical_assessment,-0.0002,0.036
+x2_heart_rate,-0.0003,0.0002
+x7_potassium,-0.0007,0.001
+x10_admission_type,-0.0013,0.0003
+x11_gender,-0.0019,0.0018
+topicB_spinal_hematoma,-0.0024,0.0184
